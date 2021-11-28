@@ -1,1 +1,1 @@
-## All the necessary assets of projects
+## All the necessary assets of project
