@@ -3,9 +3,9 @@
 
 # Keylogging Prevention Technique by randomizing the keyboard
 ### This module is installed to prevent <b>Keylogger Attack</b> on Customers. Instructions to pass it: incase you are typing the password then you have to type the password based on keyboard layout present on screen hover over to know the actual key it represent. 
-### <br>Example: to enter <b>A</b>, press <b>S</b> in your keyboard.</p>
+### <br>Example: to enter <b>A</b>, press <b>N</b> in your keyboard.</p>
 # Screenshots
-<img src="https://github.com/Anant1711/Keylogger-Armour/blob/main/assets/ss1.jpeg?raw=true"></img>
+<img src="https://github.com/Anant1711/Keylogger-Armour/blob/main/assets/ss.jpeg?raw=true"></img>
 
 # How to Setup!
 ### Download these `html` , `CSS`, `JavaScript` files, Copy paste `html`, `CSS` and `JavaScript`.
